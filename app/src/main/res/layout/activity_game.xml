@@ -8,6 +8,7 @@
     tools:context="com.nackir.android.topquizz.GameActivity">
 
     <TextView
+        android:id="@+id/activity_game_question_text"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="2"
