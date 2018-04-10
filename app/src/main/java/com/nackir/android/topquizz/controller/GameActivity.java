@@ -1,9 +1,11 @@
-package com.nackir.android.topquizz;
+package com.nackir.android.topquizz.controller;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.TextView;
+
+import com.nackir.android.topquizz.R;
 
 public class GameActivity extends AppCompatActivity {
 

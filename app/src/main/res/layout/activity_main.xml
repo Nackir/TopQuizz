@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.nackir.android.topquizz.MainActivity">
+    tools:context="com.nackir.android.topquizz.controller.MainActivity">
 
     <TextView
         android:id="@+id/activity_main_greeting_txt"
